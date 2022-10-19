@@ -7,7 +7,7 @@
 - [E-commerce Product Page](https://github.com/charo-jp/E-commerce-Product-Page)
 - [Calculator](https://github.com/charo-jp/Calculator)
 - [Time Tracking Dashboard](https://github.com/charo-jp/Time-Tracking-Dashboard)
-- [My Blog code <- frontend only](https://github.com/charo-jp/y-log) You can also click [here](https://y-log-42e59.web.app) to visit my blog.
+- [My Blog](https://github.com/charo-jp/yuya-hochi-blog) You can also click [here](https://www.yuyahochi.com/) to visit my blog.
 
 <!---
 charo-jp/charo-jp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
