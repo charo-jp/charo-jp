@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @charo-jp. Real name is Yuya Hochi
-- 👀 I’m interested in MERN Stack and Machine Learning
-- 🌱 I’m currently learning MERN Stack and Machine Learning
-- 📫 How to reach me: you can contact me through [Twitter](https://twitter.com/CharoYuya)
+- 👋 Hi, I’m @charo-jp. My Real name is Yuya Hochi
+- 👀 I’m interested in becoming Software Enginner.
+- 🌱 I’m a student studying Computer Science at the University of Kent.
+- 📫 How to reach me: you can contact me through [LinkedIn](https://www.linkedin.com/in/yuyahochi/)
 
 ### The links down below take you to my previous work in order to improve my skills.
 - [E-commerce Product Page](https://github.com/charo-jp/E-commerce-Product-Page)
