@@ -8,6 +8,7 @@
 - [Calculator](https://github.com/charo-jp/Calculator)
 - [Time Tracking Dashboard](https://github.com/charo-jp/Time-Tracking-Dashboard)
 - [My Blog](https://github.com/charo-jp/yuya-hochi-blog) You can also click [here](https://www.yuyahochi.com/) to visit my blog.
+- [IP Address Tracker](https://github.com/charo-jp/IP-Address-Tracker) You can also click [here](https://lucid-jennings-7c30a8.netlify.app/)
 
 <!---
 charo-jp/charo-jp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
