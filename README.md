@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @charo-jp. My Real name is Yuya Hochi
-- 👀 I’m interested in becoming Software Enginner.
 - 🌱 I’m a frontend developer.
 - 📫 How to reach me: you can contact me through [LinkedIn](https://www.linkedin.com/in/yuyahochi/)
 
